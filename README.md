@@ -1,4 +1,5 @@
 ## Hi there 👋
+This is snake game for public repo commits.
 
 <!--
 **PoorniB/PoorniB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
